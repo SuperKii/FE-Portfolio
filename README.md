@@ -1,2 +1,2 @@
-# laravel-project
-Repository untuk project laravel
+# FE Portfolio
+Repository untuk website portfolio
